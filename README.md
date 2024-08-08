@@ -4,7 +4,7 @@ Este é um projeto de um jogo de xadrez para console, desenvolvido em C#. O obje
 
 ## Sobre o Projeto
 
-O projeto foi desenvolvido como parte do curso "C# COMPLETO Programação Orientada a Objetos + Projetos" do professor Nélio Alves na Udemy. Este curso abrange desde os fundamentos da programação em C# até projetos completos que aplicam os conceitos de POO.
+O projeto foi desenvolvido como parte do curso "C# COMPLETO Programação Orientada a Objetos + Projetos" do professor Nélio Alves (@acenelio) na Udemy. Este curso abrange desde os fundamentos da programação em C# até projetos completos que aplicam os conceitos de POO.
 
 ## Funcionalidades
 
